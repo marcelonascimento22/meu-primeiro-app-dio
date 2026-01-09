@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="ola_mundo">Olá mundo</string>
+    <string name="bem_vindo">Bem-vindo ao aplicativo</string>
 </resources>
